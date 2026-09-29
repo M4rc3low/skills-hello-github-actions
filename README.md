@@ -1,5 +1,13 @@
 # GitHub Actions — Hello Workflow Lab
 
+<!-- portfolio-cover:start -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/github-actions.svg" alt="Capa conceitual ilustrativa do projeto skills-hello-github-actions" width="920">
+</div>
+
+> **Capa visual ilustrativa:** representa o conceito do projeto; não é uma captura da aplicação em execução. Veja a [galeria visual completa](https://m4rc3low.github.io/projetos.html).
+<!-- portfolio-cover:end -->
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-workflow_lab-2088FF?logo=githubactions&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
